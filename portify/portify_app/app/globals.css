@@ -1,7 +1,6 @@
 @import "tailwindcss";
 
 :root {
-  /* Colors */
   --background: #ffffff;
   --foreground: #171717;
   --primary: #3b82f6;
@@ -13,22 +12,14 @@
   --error: #ef4444;
   --muted: #f3f4f6;
   --border: #e5e7eb;
-
-  /* Typography */
   --font-sans: var(--font-geist-sans), Arial, Helvetica, sans-serif;
   --font-mono: var(--font-geist-mono), 'Courier New', monospace;
-
-  /* Spacing */
   --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
   --radius-lg: 1rem;
-
-  /* Shadows */
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
   --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.15);
-
-  /* Transitions */
   --transition-fast: 150ms ease;
   --transition-normal: 300ms ease;
 }
@@ -57,7 +48,6 @@
   }
 }
 
-/* Reset & Base Styles */
 *,
 *::before,
 *::after {
@@ -80,7 +70,6 @@ body {
   min-height: 100vh;
 }
 
-/* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.3;
@@ -106,7 +95,6 @@ a:hover {
   color: var(--primary-hover);
 }
 
-/* Buttons */
 button, .btn {
   display: inline-flex;
   align-items: center;
@@ -139,7 +127,6 @@ button, .btn {
   background: var(--border);
 }
 
-/* Form Elements */
 input, textarea, select {
   width: 100%;
   padding: 0.625rem 0.875rem;
@@ -158,7 +145,6 @@ input:focus, textarea:focus, select:focus {
   box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
 }
 
-/* Cards */
 .card {
   background: var(--background);
   border: 1px solid var(--border);
@@ -172,7 +158,6 @@ input:focus, textarea:focus, select:focus {
   box-shadow: var(--shadow-md);
 }
 
-/* Utility Classes */
 .container {
   width: 100%;
   max-width: 1200px;
@@ -188,7 +173,6 @@ input:focus, textarea:focus, select:focus {
   text-align: center;
 }
 
-/* Animations */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
@@ -196,5 +180,4 @@ input:focus, textarea:focus, select:focus {
 
 .animate-fade-in {
   animation: fadeIn var(--transition-normal) ease-out;
-}
 }
