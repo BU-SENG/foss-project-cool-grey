@@ -1,0 +1,103 @@
+Contributing 🤝
+First, thank you for considering a contribution
+🌟 Ways to Contribute
+🐛 Reporting Bugs
+•	Use the GitHub issue tracker
+•	Check if the bug has already been reported
+•	Include detailed steps to reproduce
+•	Add screenshots if applicable
+💻 Code Contributions
+•	Fork the repository
+•	Create a feature branch
+•	Make your changes
+•	Add tests if applicable
+•	Ensure all tests pass
+•	Submit a pull request
+🛠️ Development Setup
+Fork and Clone
+1.	https://github.com/BU-SENG/foss-project-cool-grey
+2.	cd portify
+Install Dependencies
+3.	npm install
+Start Development Server
+4.	npm run dev
+📋 Pull Request Process
+1.	Before You Start
+o	Check existing issues and PRs
+o	Open an issue to discuss major changes
+o	Ensure your fork is up to date
+2.	Making Changes
+o	Create a descriptive branch name (feature_name/document_generator, fix/web-layout)
+o	Write clear, concise commit messages
+o	Keep commits focused and atomic
+3.	Submitting PR
+o	Fill out the PR template completely
+o	Link to relevant issues
+o	Add screenshots for UI changes
+o	Request review from maintainers
+🎯 Coding Standards
+TypeScript/React
+•	Use TypeScript for all new code
+•	Follow existing component patterns
+•	Prefer function components with hooks
+•	Use proper prop typing
+Styling
+•	Use Tailwind CSS classes
+•	Follow existing design system
+•	Ensure responsive design
+•	Test on mobile devices
+Git Commit Messages
+•	Use present tense ("Add feature" not "Added feature")
+•	Use imperative mood ("Move cursor to..." not "Moves cursor to...")
+•	Limit first line to 72 characters
+•	Reference issues and PRs when applicable
+feat: add drop-down menu for doc type
+
+- Implement document search dropdown
+- Include loading states and error handling
+- Ensure web-responsive design
+🎨 Design Guidelines
+•	Colours: Use our black theme consistently
+•	Typography: Inter font family for all text
+•	Animations: Subtle, purposeful animations using Framer Motion
+•	Accessibility: Ensure keyboard navigation and screen reader support
+🧪 Testing
+•	Test your changes on different screen sizes
+•	Check form validation works correctly
+•	Ensure animations are smooth
+•	Test with slow network connections
+📚 Resources
+•	React Documentation
+•	TypeScript Handbook
+•	Tailwind CSS
+•	Framer Motion
+•	Shadcn/ui Components
+🎓 Learning Opportunities
+Portfolio Connect is a great project for students to contribute to! Whether you're:
+•	Learning React and TypeScript
+•	Exploring animation libraries
+•	Practicing responsive design
+•	Understanding API integration
+•	Improving UI/UX skills
+We welcome contributions from students at all levels!
+📞 Getting Help 
+•	Issues: Use GitHub issues for bug reports and feature requests
+•	Discussions: Use GitHub Discussions for questions and ideas
+🏆 Recognition
+Contributors will be:
+•	Listed in our README
+•	Mentioned in release notes
+•	Given special recognition in the app
+•	Part of the Document Connect contributor community
+
+📄 License
+This project is distributed under the Babcock Student Software License (BSSL).
+All source code, documentation, and related assets contributed to the repository become part of the project under the terms of the BSSL.
+By submitting a contribution, the contributor confirms:
+They have the right to contribute to the work.
+They accept that their contribution will be governed by the BSSL.
+They understand that contributions cannot be re-licensed individually or separately from the project.
+The full license text is available in the repository’s LICENSE file.
+
+
+
