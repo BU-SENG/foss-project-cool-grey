@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Emeka eDoe",
+    "bio": "A passionate developer who loves building web applications.",
+    "email": "john.doe@example.com",
+    "github": "https://github.com/johndoe",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "projects": [
+      "Portfolio Builder - A tool to create developer portfolios",
+      "Task Manager - A productivity web app"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "bio": "Full-stack engineer and open-source contributor.",
+    "email": "jane.smith@example.com",
+    "github": "https://github.com/janesmith",
+    "skills": [
+      "Python",
+      "Django",
+      "MongoDB"
+    ],
+    "projects": [
+      "Blog Platform - A content management system",
+      "Weather App - Real-time weather dashboard"
+    ]
+  },
+  {
+    "id": 1763636252919,
+    "name": "hbef",
+    "bio": "hbeh",
+    "email": "fds@gmail.comf",
+    "github": "febf",
+    "skills": [
+      "hefbh"
+    ],
+    "projects": [
+      "ibfeuibf"
+    ]
+  },
+  {
+    "id": 1763636294821,
+    "name": "bbfekj",
+    "bio": "jefkj",
+    "email": "fds@gmail.com",
+    "github": "ejk",
+    "skills": [
+      "jebf"
+    ],
+    "projects": [
+      "jef"
+    ]
+  },
+  {
+    "id": 1763644279641,
+    "name": "yjggy",
+    "bio": "iyygh",
+    "email": "hvkhn@gmail.com",
+    "github": "blkj",
+    "skills": [
+      "jb"
+    ],
+    "projects": [
+      "jbjkb"
+    ]
+  }
+]
