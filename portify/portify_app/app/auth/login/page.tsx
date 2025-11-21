@@ -13,7 +13,7 @@ export default function LoginPage() {
         className="flex flex-col gap-4 w-full max-w-sm"
         onSubmit={(e) => {
           e.preventDefault();
-          router.push("/dashboard"); // redirects to dashboard
+          router.push("/dashboard"); // redirects to dashboard page
         }}
       >
         <input type="email" placeholder="Email" className="border p-2 rounded" />
